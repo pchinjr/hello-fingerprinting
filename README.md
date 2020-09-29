@@ -1,2 +1,0 @@
-# hello-fingerprinting
-Begin app
